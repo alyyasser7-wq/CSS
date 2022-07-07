@@ -22,13 +22,12 @@
     padding-left: 150px;
     padding-right: 150px;
     padding-top: 10px;
-    border: 1px solid red;
+    
 }
 
 .navimage {
     height: 50px;
     width: auto;
-    border: 1px solid red;
 }
 .refDiv {
     display: flex;
@@ -38,7 +37,6 @@
     width: 150px;
     background-color: transparent;
     text-decoration: none;
-    border: 1px solid red;
 }
 a {
     color: rgb(249, 250, 248);
@@ -65,31 +63,27 @@ a:active {
     flex-direction: row;
     justify-content: space-around;
     padding-top: 80px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
     padding-bottom: 80px;
-    border: 1px solid red;
+
 }
 
-.leftcontainer {
-    border: 1px solid red;
-}
 
 .section1Header {
     font-family: 'Roboto-bold',sans-serif;
     font-size: 48px;
     color: rgb(249, 250, 248);
-    width: 400px;
-    height: 140px;
-    border: 1px solid red;
+    width: 450px;
+    height: auto;
 }
 
 .section1text {
     font-size: 18px;
     color: rgb(229, 231, 235);
     width: 500px;
-    height: 60px;
-    border: 1px solid red;
+    height: auto;
+
 }
 
 .button {
@@ -113,21 +107,23 @@ a:active {
 
 .image1-container {
     border-width: 1px;
-    border: 1px solid red;
+    
 }
 
 .image1 {
-    width: 450px;
+    width: 400px;
     height: auto;
-    border: 1px solid red;
+    
 }
 
 .section2{
     border: 1px solid red;
     display: flex;
     flex-direction: column;
+    background-color: #E5E7EB;
 }
 .section2title{
+    /* background-color: #E5E7EB; */
     font-family: 'Roboto-bold',sans-serif;
     padding-top: 10px;
     text-align: center;
